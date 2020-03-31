@@ -1,0 +1,25 @@
+{
+  "name": "vibrate-decorator",
+  "version": "1.0.0",
+  "description": "javascript decorator for haptic functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyricchuiti/vibrate-decorator.git"
+  },
+  "keywords": [
+    "vibrate",
+    "haptic",
+    "decorator",
+    "javascript"
+  ],
+  "author": "andyricchuiti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyricchuiti/vibrate-decorator/issues"
+  },
+  "homepage": "https://github.com/andyricchuiti/vibrate-decorator#readme"
+}
